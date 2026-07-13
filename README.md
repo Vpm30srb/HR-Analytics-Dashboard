@@ -8,6 +8,12 @@ The dashboard helps HR teams identify the major reasons behind employee attritio
 
 ---
 
+## 📸 Dashboard Preview
+
+![HR Analytics Dashboard](Images/Dashboard.png)
+
+---
+
 ## 🛠 Tools Used
 
 - Power BI
